@@ -1,0 +1,88 @@
+{
+  "cryptBini": {
+    "DATA": [ "concave.ini" ],
+    "DATA\\SCRIPTS": [ "rtcslider.ini" ],
+    "DATA\\SCRIPTS\\GCS": [
+      "genericscripts.ini",
+      "gcsexcl.ini"
+    ],
+    "DATA\\FX": [
+      "fuse_freeport7.ini",
+      "fuse_li_battleship.ini",
+      "fuse_suprise_solar.ini",
+      "fuse_transport.ini"
+    ],
+    "DATA\\FX\\HULL_HITS": [ "hull_hits_ale.ini" ],
+    "DATA\\COCKPITS\\RHEINLAND": [
+      "r_elite.ini",
+      "r_fighter.ini",
+      "r_freighter.ini"
+    ],
+    "DATA\\COCKPITS\\LIBERTY": [
+      "bh_elite.ini",
+      "bh_elite2.ini",
+      "bh_fighter.ini",
+      "l_elite.ini",
+      "l_freighter.ini",
+      "or_elite.ini"
+    ],
+    "DATA\\COCKPITS\\KUSARI": [
+      "k_elite.ini",
+      "k_fighter.ini",
+      "k_freighter.ini"
+    ],
+    "DATA\\COCKPITS\\CORSAIR": [
+      "bw_elite.ini",
+      "bw_elite2.ini",
+      "bw_fighter.ini",
+      "bw_freighter.ini",
+      "corsair.ini",
+      "corsair_elite.ini",
+      "corsair_fighter.ini",
+      "corsair_freighter.ini"
+    ],
+    "DATA\\COCKPITS\\CIVILIAN": [
+      "civilian.ini",
+      "civilian2.ini",
+      "civilian3.ini",
+      "civilian_elite.ini",
+      "civilian_fighter.ini",
+      "civilian_vheavy.ini"
+    ],
+    "DATA\\COCKPITS\\BRETONIA": [
+      "b_elite.ini",
+      "b_fighter.ini",
+      "b_freighter.ini"
+    ],
+    "DATA\\AUDIO": [
+      "voices_recognizable.ini",
+      "voices_mission13.ini",
+      "voices_mission12.ini",
+      "voices_mission11.ini",
+      "voices_mission10.ini",
+      "voices_mission09.ini",
+      "voices_mission08.ini",
+      "voices_mission07.ini",
+      "voices_mission06.ini",
+      "voices_mission05.ini",
+      "voices_mission04.ini",
+      "voices_mission03.ini",
+      "voices_mission02.ini",
+      "voices_mission01.ini",
+      "voices_base_male.ini",
+      "voices_base_female.ini",
+      "story_sounds.ini",
+      "soundcfg.ini",
+      "interface_sounds.ini"
+    ],
+    "DATA\\INTERFACE\\UI": [ "uitextures.ini" ],
+    "DATA\\INTERFACE": [
+      "rollover.ini",
+      "optlist.ini",
+      "intro.ini",
+      "infocardmap.ini",
+      "buttontextures.ini",
+      "buttonmontage.ini"
+    ]
+  }
+}

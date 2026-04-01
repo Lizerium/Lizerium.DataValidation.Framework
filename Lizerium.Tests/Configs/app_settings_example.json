@@ -1,0 +1,11 @@
+﻿{
+  "ini": "your_path_Lizerium.Game.INI",
+  "music": "your_path_Lizerium.Game.Music",
+  "cmp": "your_path_Lizerium.Game.CMP",
+  "cmpxml": "your_path_Lizerium.Game.XML.CMP",
+  "3db": "your_path_Lizerium.Game.3DB",
+  "dll": "your_path_Lizerium.Game.Dlls",
+  "txm": "your_path_Lizerium.Game.TXM",
+  "mat": "your_path_Lizerium.Game.MAT",
+  "sph": "your_path_Lizerium.Game.SPH"
+}
