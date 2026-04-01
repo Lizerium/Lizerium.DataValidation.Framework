@@ -169,6 +169,7 @@
 
 Данный слой связан с:
 
+- [`LizeriumDataToolkit`](https://github.com/Lizerium/LizeriumDataToolkit)
 - [`Lizerium.Game.Structs`](https://github.com/Lizerium/Lizerium.Game.Structs)
 - [`Lizerium.Game.INI`](https://github.com/Lizerium/Lizerium.Game.INI)
 - [`Lizerium.Game.Dlls`](https://github.com/Lizerium/Lizerium.Game.Dlls)
