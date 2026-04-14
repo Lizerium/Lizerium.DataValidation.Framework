@@ -1,4 +1,12 @@
-﻿namespace LizeriumTests.Logic.XML
+﻿/*
+ * Author: Nikolay Dvurechensky and Librelancer Contributors
+ * Site: https://dvurechensky.pro/
+ * Gmail: dvurechenskysoft@gmail.com
+ * Last Updated: 15 апреля 2026 01:09:28
+ * Version: 1.0.3
+ */
+
+namespace LizeriumTests.Logic.XML
 {
     public class LizeriumXMLParserBase
     {
