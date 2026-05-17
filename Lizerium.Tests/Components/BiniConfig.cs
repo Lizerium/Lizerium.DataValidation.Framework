@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 16 мая 2026 10:47:11
- * Version: 1.0.37
+ * Last Updated: 17 мая 2026 11:11:05
+ * Version: 1.0.38
  */
 
 namespace Lizerium.Tests.Components
