@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 29 июня 2026 06:52:53
- * Version: 1.0.81
+ * Last Updated: 30 июня 2026 07:21:37
+ * Version: 1.0.82
  */
 
 public static class Extensions
